@@ -10,6 +10,10 @@ https://github.com/ashishb/android-security-awesome
 http://square.github.io/picasso/
 http://square.github.io/retrofit/
 http://square.github.io/okhttp/
+https://www.javacodegeeks.com/category/android/
+http://www.curious-creature.com/category/android/
+https://commonsware.com/blog/
+https://github.com/google
 
 ## Android Tutorials
 http://developer.android.com/training/index.html
@@ -22,6 +26,7 @@ https://www.sitepoint.com/material-design-android-design-support-library/
 https://github.com/wasabeef/awesome-android-ui
 https://androiduiux.com/
 http://androidniceties.tumblr.com/
+https://blog.stylingandroid.com/
 
 ## Android Code Management & Best Practises
 http://google.github.io/styleguide/javaguide.html

@@ -2,7 +2,9 @@
 
 ## Android Developer Resources
 http://blog.udacity.com/2015/06/30-android-developer-resources.html
+
 http://android-arsenal.com/
+
 https://github.com/JStumpp/awesome-android
 https://github.com/ashishb/android-security-awesome
 http://square.github.io/picasso/

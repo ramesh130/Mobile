@@ -12,6 +12,7 @@
 * http://www.curious-creature.com/category/android/
 * https://commonsware.com/blog/
 * https://github.com/google
+* https://code.facebook.com/android/
 
 ## Android Tutorials
 * http://developer.android.com/training/index.html
@@ -31,7 +32,7 @@
 * https://github.com/futurice/android-best-practices
 * https://github.com/hitherejoe/Android-Boilerplate/
 
-## Android Newsand Updates
+## Android News and Updates
 * https://android.googleblog.com/
 * http://android-developers.blogspot.com.au/
 * http://androidweekly.net/

@@ -38,3 +38,9 @@
 * http://androidweekly.net/
 * http://www.androidcentral.com/
 * http://www.androidauthority.com/
+
+## Deep Learning in Android
+* https://github.com/sh1r0/caffe-android-lib
+* https://github.com/soumith/torch-android
+* http://deeplearning4j.org/
+* https://github.com/tensorflow/tensorflow/tree/master/tensorflow/examples/android/

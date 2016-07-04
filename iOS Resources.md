@@ -4,6 +4,7 @@
 * https://developer.apple.com/library/ios/navigation/#
 * https://developer.apple.com/videos/
 * https://developer.apple.com/swift/blog/
+* http://square.github.io/#ios
 * http://blog.udacity.com/2015/02/ultimate-list-ios-developer-resources-follow.html
 * http://dailytekk.com/2014/02/20/100-great-resources-for-ios-developers/?reading=continue
 * http://awesomeios.com/

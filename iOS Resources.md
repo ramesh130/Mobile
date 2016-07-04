@@ -39,6 +39,8 @@
 * http://www.mobileviews.com/blog/
 * http://natashatherobot.com/
 * http://appcoda.com/
+* https://maniacdev.com/
+* http://nscookbook.com/recipes/
 
 ## Deep Learning in iOS
 * https://www.bignerdranch.com/blog/neural-networks-in-ios-10-and-macos/

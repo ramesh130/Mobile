@@ -44,3 +44,8 @@
 * https://github.com/soumith/torch-android
 * http://deeplearning4j.org/
 * https://github.com/tensorflow/tensorflow/tree/master/tensorflow/examples/android/
+
+## Cognitive Computing in Android
+* https://developers.google.com/vision/
+
+## AR/VR in Android
